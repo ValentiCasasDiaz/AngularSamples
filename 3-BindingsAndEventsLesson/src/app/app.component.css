@@ -1,0 +1,10 @@
+.magic-container {
+    display: flex;
+    margin: 15px;
+    width: 300px;
+    height: 100px;
+    border: 1px black solid;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}

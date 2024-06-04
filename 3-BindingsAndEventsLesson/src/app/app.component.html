@@ -1,0 +1,18 @@
+<!-- Cualquier atributo puede vincularse (Bind) con una variable del TS -->
+<!-- Como por ejemplo el "src" de la etiqueta HTML "img" -->
+<p>Fotos</p>
+<img [src]="photoUrls[0]" alt="Sample Photo 1">
+<img [src]="photoUrls[1]" alt="Sample Photo 2">
+<img [src]="photoUrls[2]" alt="Sample Photo 3">
+
+<!-- Y también el atributo "disabled" de la etiqueta HTML "button" -->
+<p>Botones</p>
+<button [disabled]="buttonDisabled">Boton Habilitado</button>
+<button [disabled]="!buttonDisabled">Boton Deshabilitado</button>
+
+<!-- Angular también nos permite el manejo de eventos -->
+<!-- Como por ejemplo los eventos "mouseover" y "mouseout" -->
+<div class="magic-container" (mouseover)="showSecretMsg()" (mouseout)="hideSecretMsg()">{{msg}}</div>
+
+<!-- Y también el evento "click" -->
+<div class="magic-container" (click)="onClickEvent()">Haz click !!</div>
