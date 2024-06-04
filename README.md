@@ -28,8 +28,8 @@ En cada rama de este repositorio podremos encontrar diferentes ejercicios focali
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 ## Versiones
-[![Angular][Angular.io]][Angular-url]<br>
-[![Node.Js][Node.io]][Node-url]
+[![Node.Js][Node.io]][Node-url]<br>
+[![Angular][Angular.io]][Angular-url]
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
