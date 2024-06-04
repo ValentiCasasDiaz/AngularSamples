@@ -54,12 +54,12 @@ Mi recomendación es que vayais a la rama pertinente y os descargueis el .zip, p
 ### Component Lesson
 En este ejemplo se trabajan los siguientes puntos:
 * Componentes: Como crear un componente nuevo y añadirlo para que se muestre.
-* Interpolación de información: Como mostrar información del TS y llamar funciones en el HTML.
+* Interpolación de información: Como mostrar información del TS y llamar funciones en el HTML.<br>
 [Descargar](https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/1-ComponentLesson.zip)
 
 ### Control Flow Lesson
 * @if: Control de flujo para añadir o quitar elementos del DOM.
-* @for: Control de flujo para iterar desde un array a cualquier objeto iterable.
+* @for: Control de flujo para iterar desde un array a cualquier objeto iterable.<br>
 [Descargar](https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip)
 
 <!-- MARKDOWN LINKS & IMAGES -->
