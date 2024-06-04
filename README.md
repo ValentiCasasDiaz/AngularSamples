@@ -51,14 +51,16 @@ Mi recomendación es que vayais a la rama pertinente y os descargueis el .zip, p
 
 ## Ejemplos
 
-### Component Lesson ([Descargar])(https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/1-ComponentLesson.zip)
+### Component Lesson
 En este ejemplo se trabajan los siguientes puntos:
 * Componentes: Como crear un componente nuevo y añadirlo para que se muestre.
-* Interpolación de información: Como mostrar información del TS y llamar funciones en el HTML.<br>
+* Interpolación de información: Como mostrar información del TS y llamar funciones en el HTML.
+<p align="right">[Descargar](https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/1-ComponentLesson.zip)</p>
 
-### Control Flow Lesson ([Descargar])(https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip)
+### Control Flow Lesson
 * @if: Control de flujo para añadir o quitar elementos del DOM.
-* @for: Control de flujo para iterar desde un array a cualquier objeto iterable.<br>
+* @for: Control de flujo para iterar desde un array a cualquier objeto iterable.
+<p align="right">[Descargar](https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
