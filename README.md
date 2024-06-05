@@ -62,6 +62,11 @@ En este ejemplo se trabajan los siguientes puntos:
 * @for: Control de flujo para iterar desde un array a cualquier objeto iterable.
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip">Descargar</a>)</p>
 
+### Bindings & Events
+* Bindings: Vinculación de atributos de etiquetas HTML con propiedades del TS.
+* Events: Manejo de eventos estándar
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip">Descargar</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
 [Angular-url]: https://angular.io/
