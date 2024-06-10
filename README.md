@@ -18,6 +18,8 @@
       <ol>
         <li><a href="#Component-Lesson">Component Lesson</a></li>
         <li><a href="#Control-Flow-Lesson">Control Flow Lesson</a></li>
+        <li><a href="#Bindings-&-Events">Bindings & Events</a></li>
+        <li><a href="#Inputs-&-Outputs">Inputs & Outputs</a></li>
       </ol>
     </li>
   </ol>
@@ -65,7 +67,13 @@ En este ejemplo se trabajan los siguientes puntos:
 ### Bindings & Events
 * Bindings: Vinculación de atributos de etiquetas HTML con propiedades del TS.
 * Events: Manejo de eventos estándar
-<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip">Descargar</a>)</p>
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/3-BindingsAndEventsLesson.zip">Descargar</a>)</p>
+
+### Inputs & Outputs
+* Inputs: Señal para pasar información de un componente padre a un hijo
+* Outputs: Señal para avisar a un componente padre desde un componente hijo
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/4-InputAndOutputLesson.zip">Descargar</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
