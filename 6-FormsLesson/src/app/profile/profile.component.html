@@ -1,0 +1,28 @@
+<h1>
+  Ejemplo de manejo de información de un formulario Reactivo (programándolo
+  desde el TS)
+</h1>
+
+<!-- Mediante el Atributo "formGroup" vinculamos este formulario con el FormGroup del TS -->
+<!-- Mediante el evento "ngSubmit" cuando se aprete el botón de submit del formulario se ejecutará la función "onSubmit()" -->
+<form [formGroup]="profileForm" (ngSubmit)="onSubmit()">
+  <label>Nombre:</label> <br>
+
+  <!-- Cada control ha de llevar el atributo 'formControlName' asociado al controlador correspondiente -->
+  <input type="text" formControlName="name"/>
+
+  <br>
+
+  <label>Email:</label> <br>
+  <input type="email" formControlName="email"/>
+
+  <br>
+
+  <!-- Botón de tipo "Submit" para que se envie el formulario -->
+  <button type="submit" [disabled]="!profileForm.valid">Enviar</button>
+</form>
+
+<!-- Para mostrar el contenido del Formulario -->
+<h2>Formulario de Perfil</h2>
+<p>Nombre: {{ profileForm.value.name }}</p>
+<p>Correo: {{ profileForm.value.email }}</p>

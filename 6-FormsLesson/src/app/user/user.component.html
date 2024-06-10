@@ -1,1 +1,16 @@
-<p>user works!</p>
+<div>
+  <h1>Ejemplo de manejo de información de un formulario en HTML</h1>
+
+  <!-- Estas 2 líneas muestran los valores de las variables correspondientes -->
+  <p>Nombre: {{ nombre }}</p>
+  <p>Hobby: {{ hobby }}</p>
+
+  <label for="hobby">
+    Escribe tu Hobby:
+    <!-- La directiva [(ngModel)] nos permite que lo que se escribe en el 'input' se guarde en la variable hobby... -->
+    <!-- ...y también muestra el contenido de la variable 'hobby'. Tiene esa doble función  -->
+    <input id="hobby" type="text" [(ngModel)]="hobby" />
+  </label>
+
+  <button (click)="mostrarHobby()">Mostrar Hobby</button>
+</div>
