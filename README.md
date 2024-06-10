@@ -18,9 +18,10 @@
       <ol>
         <li><a href="#Component-Lesson">Component Lesson</a></li>
         <li><a href="#Control-Flow-Lesson">Control Flow Lesson</a></li>
-        <li><a href="#Bindings-&-Events">Bindings & Events Lesson</a></li>
-        <li><a href="#Inputs-&-Outputs">Inputs & Outputs Lesson</a></li>
-        <li><a href="#Routes">Routes Lesson</a></li>
+        <li><a href="#Bindings-&-Events-Lesson">Bindings & Events Lesson</a></li>
+        <li><a href="#Inputs-&-Outputs-Lesson">Inputs & Outputs Lesson</a></li>
+        <li><a href="#Routes-Lesson">Routes Lesson</a></li>
+        <li><a href="#Forms-Lesson">Forms Lesson</a></li>
       </ol>
     </li>
   </ol>
@@ -65,19 +66,24 @@ En este ejemplo se trabajan los siguientes puntos:
 * @for: Control de flujo para iterar desde un array a cualquier objeto iterable.
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/2-ControlFlowLesson.zip">Descargar</a>)</p>
 
-### Bindings & Events
+### Bindings & Events Lesson
 * Bindings: Vinculación de atributos de etiquetas HTML con propiedades del TS.
 * Events: Manejo de eventos estándar
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/3-BindingsAndEventsLesson.zip">Descargar</a>)</p>
 
-### Inputs & Outputs
+### Inputs & Outputs Lesson
 * Inputs: Señal para pasar información de un componente padre a un hijo
 * Outputs: Señal para avisar a un componente padre desde un componente hijo
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/4-InputAndOutputLesson.zip">Descargar</a>)</p>
 
-### Routes
+### Routes Lesson
 * Routes: Sirven para canviar dinámicamente el contenido de la página
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/5-Routes.zip">Descargar</a>)</p>
+
+### Forms Lesson
+* Template Forms (HTML): Formularios que se gestionan desde el HTML.
+* Reactive Forms: Formularios que se gestionan programando desde el TS. 
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/6-FormsLesson.zip">Descargar</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
