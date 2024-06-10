@@ -1,0 +1,15 @@
+.container {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    border: 1px black solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 50%;
+}
