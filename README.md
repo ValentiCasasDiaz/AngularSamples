@@ -18,8 +18,9 @@
       <ol>
         <li><a href="#Component-Lesson">Component Lesson</a></li>
         <li><a href="#Control-Flow-Lesson">Control Flow Lesson</a></li>
-        <li><a href="#Bindings-&-Events">Bindings & Events</a></li>
-        <li><a href="#Inputs-&-Outputs">Inputs & Outputs</a></li>
+        <li><a href="#Bindings-&-Events">Bindings & Events Lesson</a></li>
+        <li><a href="#Inputs-&-Outputs">Inputs & Outputs Lesson</a></li>
+        <li><a href="#Routes">Routes Lesson</a></li>
       </ol>
     </li>
   </ol>
@@ -73,6 +74,10 @@ En este ejemplo se trabajan los siguientes puntos:
 * Inputs: Señal para pasar información de un componente padre a un hijo
 * Outputs: Señal para avisar a un componente padre desde un componente hijo
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/4-InputAndOutputLesson.zip">Descargar</a>)</p>
+
+### Routes
+* Routes: Sirven para canviar dinámicamente el contenido de la página
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/5-Routes.zip">Descargar</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
