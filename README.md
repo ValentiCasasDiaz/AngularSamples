@@ -22,6 +22,7 @@
         <li><a href="#Inputs-&-Outputs-Lesson">Inputs & Outputs Lesson</a></li>
         <li><a href="#Routes-Lesson">Routes Lesson</a></li>
         <li><a href="#Forms-Lesson">Forms Lesson</a></li>
+        <li><a href="#Services-Lesson">Services Lesson</a></li>
       </ol>
     </li>
   </ol>
@@ -81,9 +82,13 @@ En este ejemplo se trabajan los siguientes puntos:
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/5-Routes.zip">Descargar</a>)</p>
 
 ### Forms Lesson
-* Template Forms (HTML): Formularios que se gestionan desde el HTML.
-* Reactive Forms: Formularios que se gestionan programando desde el TS. 
+* Template Forms (HTML): Formularios que se gestionan desde el HTML
+* Reactive Forms: Formularios que se gestionan programando desde el TS
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/6-FormsLesson.zip">Descargar</a>)</p>
+
+### Services Lesson
+* Service: Componente usado para compartir información entre diferentes partes de la web
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/7-ServicesLesson.zip">Descargar</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
