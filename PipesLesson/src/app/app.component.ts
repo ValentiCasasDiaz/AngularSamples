@@ -16,5 +16,18 @@ export class AppComponent {
   num = 103.1234;
   birthday = new Date(2023, 3, 2);
   cost = 4560.34;
-  
+
+  // Las pipes DecimalPipe, DatePipe y CurrencyPipe funcionan con el Locale, eso implica
+  // que se tiene que actualizar para que salgan con el formato correcto
+  /*
+    En el archivo angular.json se tiene que añadir el siguiente código:
+
+    ...
+    "NombreProyecto": {
+      "i18n": {
+          "sourceLocale": "es"
+        },
+    ...
+
+  */
 }

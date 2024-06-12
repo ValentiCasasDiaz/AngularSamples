@@ -4,6 +4,9 @@
   "newProjectRoot": "projects",
   "projects": {
     "PipesLesson": {
+      "i18n": {
+        "sourceLocale": "es"
+      },
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -92,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
