@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-container {
+    border: 1px solid black;
+    width: 800px;
+    height: 600px;
+    position: relative;
+}
+
+img {
+    object-fit: cover;
+}
