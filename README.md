@@ -60,7 +60,7 @@ Mi recomendación es que vayais a la rama pertinente y os descargueis el .zip, p
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
-## Fundamentos-de-Angular
+## Fundamentos de Angular
 
 ### Component Lesson
 En este ejemplo se trabajan los siguientes puntos:
