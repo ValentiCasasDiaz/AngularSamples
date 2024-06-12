@@ -14,7 +14,7 @@
       <a href="#Como-usar-este-repositorio">Como usar este repositorio</a>
     </li>
     <li>
-      <a href="#ejemplos">Ejemplos</a>
+      <a href="#ejemplos-fundamentos">Fundamentos</a>
       <ol>
         <li><a href="#Component-Lesson">Component Lesson</a></li>
         <li><a href="#Control-Flow-Lesson">Control Flow Lesson</a></li>
@@ -54,7 +54,7 @@ Mi recomendación es que vayais a la rama pertinente y os descargueis el .zip, p
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
-## Ejemplos
+## Ejemplos-fundamentos
 
 ### Component Lesson
 En este ejemplo se trabajan los siguientes puntos:
@@ -90,6 +90,7 @@ En este ejemplo se trabajan los siguientes puntos:
 * Service: Componente usado para compartir información entre diferentes partes de la web
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/7-ServicesLesson.zip">Descargar</a>)</p>
 
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
