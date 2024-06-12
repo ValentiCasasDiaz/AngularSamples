@@ -104,6 +104,10 @@ En este ejemplo se trabajan los siguientes puntos:
 * Pipes: Son funciones que sirven para transformar como se muestra la información en el HTML
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/8-PipesLesson.zip">Descargar</a>)</p>
 
+### Assets Lesson
+* Assets: Es la carpeta donde guardamos los recursos del proyecto que necesitamos cargar, como por ejemplo imágenes
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/9-AssetsLesson.zip">Descargar</a>)</p>
+
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
