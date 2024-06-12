@@ -7,6 +7,8 @@
 
 <div class="container">
   @for (photo of photoUrls; track $index; let first = $first) {
+
+    <!-- Le ponemos al primer elemento el atributo 'priority' ya que es el primero que se verá -->
     @if (first) {
       <div class="image-container">
         <img [ngSrc]="photo" alt="Photo Image" priority fill>
