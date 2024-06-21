@@ -108,6 +108,10 @@ En este ejemplo se trabajan los siguientes puntos:
 * Assets: Es la carpeta donde guardamos los recursos del proyecto que necesitamos cargar, como por ejemplo imágenes
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/9-AssetsLesson.zip">Descargar</a>)</p>
 
+### Custom Pipes
+* Custom Pipes: Funciones que crearemos nosotros para facilitarnos tareas repetitivas
+<p>(<a href="#">Descargar</a>)</p>
+
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
