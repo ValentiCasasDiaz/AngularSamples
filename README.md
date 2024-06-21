@@ -29,6 +29,8 @@
       <a href="#Contenido-Adicional">Contenido Adicional</a>
         <ol>
           <li><a href="#Pipes-Lesson">Pipes Lesson</a></li>
+          <li><a href="#Assets-Lesson">Assets Lesson</a></li>
+          <li><a href="#Custom-Pipes-Lesson">Custom Pipes Lesson</a></li>
         </ol>
     </li>
   </ol>
@@ -107,6 +109,10 @@ En este ejemplo se trabajan los siguientes puntos:
 ### Assets Lesson
 * Assets: Es la carpeta donde guardamos los recursos del proyecto que necesitamos cargar, como por ejemplo imágenes
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/9-AssetsLesson.zip">Descargar</a>)</p>
+
+### Custom Pipes Lesson
+* Custom Pipes: Funciones que crearemos nosotros para facilitarnos tareas repetitivas o aplicar filtros a coleciones de datos
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/CustomPipesLesson.zip">Descargar</a>)</p>
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
