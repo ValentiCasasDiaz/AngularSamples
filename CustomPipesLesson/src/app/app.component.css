@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.user-container {
+    margin: 10px;
+    padding: 0 15px;
+    border-radius: 15px;
+    border: 1px solid black;
+}
