@@ -1,0 +1,33 @@
+/* https://www.cssmatic.com/box-shadow */
+.btn {
+  width: 150px;
+  height: 50px;
+  margin: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 3px 3px 8px 0px rgba(0, 0, 0, 0.5);
+}
+
+/* https://cssgradient.io/ */
+.btn-primary {
+  background: rgb(249, 210, 113);
+  background: linear-gradient(
+    180deg,
+    rgba(249, 210, 113, 1) 0%,
+    rgba(240, 178, 28, 1) 25%,
+    rgba(240, 178, 28, 1) 75%,
+    rgba(194, 144, 22, 1) 100%
+  );
+}
+
+.btn-secondary {
+  background: rgb(195, 232, 156);
+  background: linear-gradient(
+    180deg,
+    rgba(195, 232, 156, 1) 0%,
+    rgba(130, 208, 49, 1) 25%,
+    rgba(130, 208, 49, 1) 75%,
+    rgba(98, 157, 37, 1) 100%
+  );
+}
