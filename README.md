@@ -31,6 +31,7 @@
           <li><a href="#Pipes-Lesson">Pipes Lesson</a></li>
           <li><a href="#Assets-Lesson">Assets Lesson</a></li>
           <li><a href="#Custom-Pipes-Lesson">Custom Pipes Lesson</a></li>
+          <li><a href="#Conditional-Styles-Lesson">Conditional Styles Lesson</a></li>
         </ol>
     </li>
   </ol>
@@ -113,6 +114,11 @@ En este ejemplo se trabajan los siguientes puntos:
 ### Custom Pipes Lesson
 * Custom Pipes: Funciones que crearemos nosotros para facilitarnos tareas repetitivas o aplicar filtros a coleciones de datos
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/CustomPipesLesson.zip">Descargar</a>)</p>
+
+### Conditional Styles Lesson
+* ngClass: Directiva que nos permite aplicar clases de CSS mediante el uso condicionales 
+* ngStyle: Directiva que nos permite aplicar estilos de CSS en determinadas ocasiones mediante el uso condicionales
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/ConditionalStylesLesson.zip">Descargar</a>)</p>
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
