@@ -1,0 +1,29 @@
+@if (isWebLandscape) {
+    <div class="web-container">
+
+        <div class="image-container">
+            <h1 class="italianno-regular tracking-in-expand" [ngStyle]="getTitleFontStyle()">Like Home</h1>
+        </div>
+    
+        <div class="login-container">
+            <h1 class="italianno-regular" [ngStyle]="getTitleFontStyle()">Bienvenidos</h1>
+            <h3 class="italianno-regular" [ngStyle]="getTextFontStyle()">Gracias por entrar a la web de decoración de hogar más popular de todo Internet</h3>
+            <button class="italianno-regular login-web">Login</button>
+            <button class="italianno-regular register-web">Register</button>
+        </div>
+    
+    </div>
+}
+@else {
+    <div class="mobile-container">
+        <h1 class="italianno-regular tracking-in-expand" [ngStyle]="getTitleFontStyle()">Like Home</h1>
+        <h3 class="italianno-regular" [ngStyle]="getTextFontStyle()">Gracias por entrar a la web de decoración de hogar más popular de todo Internet</h3>
+        <button class="italianno-regular login-mobile">Login</button>
+        <button class="italianno-regular register-mobile">Register</button>
+    </div>
+}
+
+
+
+
+
