@@ -32,6 +32,7 @@
           <li><a href="#Assets-Lesson">Assets Lesson</a></li>
           <li><a href="#Custom-Pipes-Lesson">Custom Pipes Lesson</a></li>
           <li><a href="#Conditional-Styles-Lesson">Conditional Styles Lesson</a></li>
+          <li><a href="#Adaptive-UI-Lesson">Adaptive UI Lesson</a></li>
         </ol>
     </li>
   </ol>
@@ -120,7 +121,14 @@ En este ejemplo se trabajan los siguientes puntos:
 * ngStyle: Directiva que nos permite aplicar estilos de CSS en determinadas ocasiones mediante el uso condicionales
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/ConditionalStylesLesson.zip">Descargar</a>)</p>
 
+### Adaptive UI Lesson
+* Requiere instalar Angular Material para tener las librerías necesarias
+* BreakPointObservers: Observable que detecta cambios en el tamaño de la pantalla del usuario
+<p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/AdaptiveUILesson.zip">Descargar</a>)</p>
+
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
+
+#Adaptive-UI-Lesson
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
