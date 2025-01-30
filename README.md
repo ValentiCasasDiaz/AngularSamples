@@ -131,7 +131,7 @@ En este ejemplo se trabajan los siguientes puntos:
 #Adaptive-UI-Lesson
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
-[Angular-url]: https://angular.io/
-[Node.io]: https://img.shields.io/badge/NODE.JS%2022.2.0-grey?style=for-the-badge&logo=nodedotjs
-[Node-url]: https://nodejs.org/en
+[Flutter.io]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=3.27.3&labelColor=blue
+[Flutter-url]: https://flutter.dev/
+[Dart.io]: https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=3.6.1&labelColor=blue
+[Dart-url]: https://dart.dev/
