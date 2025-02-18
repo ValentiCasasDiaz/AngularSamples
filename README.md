@@ -33,6 +33,7 @@
           <li><a href="#Custom-Pipes-Lesson">Custom Pipes Lesson</a></li>
           <li><a href="#Conditional-Styles-Lesson">Conditional Styles Lesson</a></li>
           <li><a href="#Adaptive-UI-Lesson">Adaptive UI Lesson</a></li>
+          <li><a href="#Reactive-Page-Lesson">Reactive Page Lesson</a></li>
         </ol>
     </li>
   </ol>
@@ -126,9 +127,12 @@ En este ejemplo se trabajan los siguientes puntos:
 * BreakPointObservers: Observable que detecta cambios en el tamaño de la pantalla del usuario
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/AdaptiveUILesson.zip">Descargar</a>)</p>
 
-<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
+### Reactive Page Lesson
+* Ejemplo de como programar un carrito de la compra reactivo (mediante RXJS de Angular), los elementos visuales se actualizan al momento de añadir un elemento a la cesta.
+* Adicionalmente contiene un ejemplo de llamada a una API mediante HTTP
+<p>(<a href="https://github.com/ValentiCasasDiaz/AngularSamples/archive/refs/heads/ReactivePageLesson.zip">Descargar</a>)</p>
 
-#Adaptive-UI-Lesson
+<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Angular.io]: https://img.shields.io/badge/angular%2018.0.2-red?style=for-the-badge&logo=angular
