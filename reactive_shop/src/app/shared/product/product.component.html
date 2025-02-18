@@ -1,0 +1,11 @@
+<mat-card class="product-card" appearance="outlined">
+  <img
+    mat-card-image
+    [src]="product().download_url"
+    alt="Photo of a product"
+  />
+
+  <mat-card-content>
+    <p>{{product().author}}</p>
+  </mat-card-content>
+</mat-card>

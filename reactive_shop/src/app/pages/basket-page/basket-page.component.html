@@ -1,0 +1,12 @@
+<div class="container">
+  @for (item of basketItems$ | async; track $index) {
+  <div class="item">
+    Unidades: {{ item.amount }}
+    <app-product [product]="item.product"></app-product>
+  </div>
+  }
+</div>
+
+<button mat-fab color="primary" class="floating-action" (click)="returnToProducts()">
+  <mat-icon>arrow_back</mat-icon>
+</button>

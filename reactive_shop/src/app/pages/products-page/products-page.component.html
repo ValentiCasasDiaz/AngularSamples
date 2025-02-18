@@ -1,0 +1,21 @@
+@if (products$ | async) {
+
+<div class="container">
+  @for (item of products$ | async; track $index) {
+  <div class="product">
+    <app-product [product]="item"></app-product>
+    <button mat-raised-button (click)="addToBasket(item)">
+      AÑADIR <mat-icon>shopping_basket</mat-icon>
+    </button>
+  </div>
+  }
+</div>
+
+} @else {
+
+<!-- Un Spinner dando vueltas en medio si no ha llegado la respuesta del servidor -->
+<div class="centered-container">
+  <mat-spinner></mat-spinner>
+</div>
+
+}
