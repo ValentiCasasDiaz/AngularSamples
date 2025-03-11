@@ -23,6 +23,7 @@
         <li><a href="#Routes-Lesson">Routes Lesson</a></li>
         <li><a href="#Forms-Lesson">Forms Lesson</a></li>
         <li><a href="#Services-Lesson">Services Lesson</a></li>
+        <li><a href="# Reactive-Page-&-HTTP-Lesson">Reactive Page & HTTP Lesson</a></li>
       </ol>
     </li>
     <li>
@@ -33,7 +34,6 @@
           <li><a href="#Custom-Pipes-Lesson">Custom Pipes Lesson</a></li>
           <li><a href="#Conditional-Styles-Lesson">Conditional Styles Lesson</a></li>
           <li><a href="#Adaptive-UI-Lesson">Adaptive UI Lesson</a></li>
-          <li><a href="#Reactive-Page-Lesson">Reactive Page Lesson</a></li>
         </ol>
     </li>
   </ol>
@@ -101,6 +101,11 @@ En este ejemplo se trabajan los siguientes puntos:
 * Service: Componente usado para compartir información entre diferentes partes de la web
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/7-ServicesLesson.zip">Descargar</a>)</p>
 
+### Reactive Page & HTTP Lesson
+* Ejemplo de como programar un carrito de la compra reactivo (mediante RXJS de Angular), los elementos visuales se actualizan al momento de añadir un elemento a la cesta.
+* Adicionalmente contiene un ejemplo de llamada a una API mediante HTTP
+<p>(<a href="https://github.com/ValentiCasasDiaz/AngularSamples/archive/refs/heads/ReactivePageLesson.zip">Descargar</a>)</p>
+
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
 ## Contenido adicional
@@ -126,11 +131,6 @@ En este ejemplo se trabajan los siguientes puntos:
 * Requiere instalar Angular Material para tener las librerías necesarias
 * BreakPointObservers: Observable que detecta cambios en el tamaño de la pantalla del usuario
 <p>(<a href="https://github.com/valenti-casas-ilerna/AngularSamples/archive/refs/heads/AdaptiveUILesson.zip">Descargar</a>)</p>
-
-### Reactive Page Lesson
-* Ejemplo de como programar un carrito de la compra reactivo (mediante RXJS de Angular), los elementos visuales se actualizan al momento de añadir un elemento a la cesta.
-* Adicionalmente contiene un ejemplo de llamada a una API mediante HTTP
-<p>(<a href="https://github.com/ValentiCasasDiaz/AngularSamples/archive/refs/heads/ReactivePageLesson.zip">Descargar</a>)</p>
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
